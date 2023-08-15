@@ -1,5 +1,6 @@
 # Stellar-Wizard
 > Astronomy Applet
+<img src="https://i.imgur.com/0BT2B39.png" alt="image">
 
 ## Documentation
 #### Libraries:
