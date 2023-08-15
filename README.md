@@ -3,7 +3,7 @@
 
 ## Documentation
 #### Libraries:
-https://rhodesmill.org/pyephem/toc.html
+https://rhodesmill.org/pyephem/toc.html \
 https://rhodesmill.org/skyfield/toc.html
 
 ## Manual
